@@ -10,4 +10,4 @@ def factorial(n: int) -> int:
 
 
 if __name__ == "__main__":
-    result = factorial(5)
+    print(factorial(5))
